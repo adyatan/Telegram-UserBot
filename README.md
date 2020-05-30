@@ -1,57 +1,57 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/TeamDerUntergang/Telegram-UserBot?color=Blue&label=Repo%20Boyutu)
-![GitHub](https://img.shields.io/github/license/TeamDerUntergang/Telegram-UserBot?color=Orange&label=Lisans)
+! [GitHub repo size] (https://img.shields.io/github/repo-size/TeamDerUntergang/Telegram-UserBot?color=Blue&label=Repo%20Size)
+! [Github] (https://img.shields.io/github/license/teamderuntergang/telegram-userbot?color=orange&label=lisans)
 
 # Seden-UserBot
 
-### CI derlemesi başarılı, ancak yerel olarak çalışırken hala sözdizimi hataları alıyorsanız, muhtemelen kaynakla ilgili bir sorun değil, python sürümünüzle alakalı bir sorun.
+### CI compilation is successful, but if you're still getting syntax errors while working locally, it's probably not a resource-related problem, it's a problem with your version of python.
 
 ### # Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDerUntergang/Telegram-UserBot/tree/seden)
+[! [Deploy] (https://www.herokucdn.com/deploy/button.svg)] (https://github.com/adyatan/Telegram-UserBot/ tree / set)
 
-```
-#include <std/disclaimer.h>
-/**
-    Telegram hesabınız yasaklanabilir.
-    Botun yanlış kullanımından sorumlu değilim sorumluluk size aittir.
-    Bu bot grupları verimli bir şekilde yönetmenin yanı sıra,
-    eğlenmek amacıyla tasarlanmıştır.
-    Grupları spamlayarak eğleneceğinizi düşünüyorsanız yanılıyorsunuz.
-    Herhangi bir spam ban yeme durumunda eğer gelipte hesabım banlandı diye yazarsanız
-    sadece size güleceğim.
-/**
-```
+`` `
+#include <std / disclaimer.h>
+/ **
+    Your Telegram account may be banned.
+    I am not responsible for the misuse of the boat.
+    In addition to managing these bot groups efficiently,
+    designed for fun.
+    If you think you will have fun by spamming the groups, you are wrong.
+    In case of eating any spam ban, if you come and write my account banned
+    I will just laugh at you.
+/ **
+`` `
 
-Python3 üzerinde bir sqlalchemy veritabanı ile çalışan modüler bir telegram Python kullanıcı Botu.
+A modular telegram Python user Bot that runs on a Python3 with a sqlalchemy database.
 
-Bot PaperPlane tabanından alınarak, Türkçe'ye çevrilip birkaç özellik eklenmiştir. Eğlenceli özellikler [SkittBot](https://github.com/skittles9823/SkittBot)'dan alınmıştır. Son derece modüler ve kullanımı basit bir botdur.
+By taking the Bot from the PaperPlane base, it was translated into Turkish and several features were added. Fun features are taken from [SkittBot] (https://github.com/skittles9823/SkittBot). It is extremely modular and simple to use.
 
-Bu botu yapılandırmak için wiki sayfasını kontrol edebilirsiniz [Wiki](https://github.com/TeamDerUntergang/Telegram-UserBot/wiki/Bot-Kurulum-Rehberi)
+You can check the wiki page to configure this bot [Wiki] (https://github.com/TeamDerUntergang/Telegram-UserBot/wiki/Bot-Installation- Guide)
 
-Herhangi bir istek & şikâyet & öneri varsa [destek grubundan](https://t.me/SedenUserBotSupport) bana ulaşabilirsiniz.
+You can contact me at [support group] (https://t.me/SedenUserBotSupport) if you have any requests & complaints & suggestions.
 
-Lütfen kurulum talimatları için [Wiki](https://github.com/TeamDerUntergang/Telegram-UserBot/wiki/Bot-Kurulum-Rehberi) sayfasına gidin! Talimatı okumadan verilen sorulara cevap verilmeyecektir.
+Please go to the [Wiki] (https://github.com/TeamDerUntergang/Telegram-UserBot/wiki/Bot-Installation- Guide) for setup instructions! Questions given without reading the instruction will not be answered.
 
-### Teşekkürler:
+### Thanks:
 
-Bu proje boyunca bana yardımcı olan insanlara teşekkür etmek istiyorum:
+I would like to thank the people who helped me throughout this project:
 
-* [@YouTwitFace](https://github.com/YouTwitFace)
-* [@TheDevXen](https://github.com/TheDevXen)
-* [@Skittles9823](https://github.com/Skittles9823)
-* [@deletescape](https://github.com/deletescape)
-* [@songotenks69](https://github.com/songotenks69)
-* [@Ovenoboyo](https://github.com/Ovenoboyo)
-* [@SphericalKat](https://github.com/ATechnoHazard)
-* [@rupansh](https://github.com/rupansh)
-* [@zakaryan2004](https://github.com/zakaryan2004)
-* [@kandnub](https://github.com/kandnub)
-* [@pqhaz](https://github.com/pqhaz)
-* [@yshalsager](https://github.com/yshalsager)
-* [@NaytSeyd](https://github.com/NaytSeyd)
-* [@ReversedPosix](https://github.com/ReversedPosix)
-* [@quiec](https://github.com/quiec)
-* [@erdemozdemir98](https://github.com/erdemozdemir98)
-* [@Sedenogen](https://github.com/ciyanogen)
-* [@frknkrc44](https://github.com/frknkrc44)
+* [@YouTwitFace] (https://github.com/YouTwitFace)
+* [@TheDevXen] (https://github.com/TheDevXen)
+* [@ Skittles9823] (https://github.com/Skittles9823)
+* [@deletescape] (https://github.com/deletescape)
+* [@ songotenks69] (https://github.com/songotenks69)
+* [@Ovenoboyo] (https://github.com/Ovenoboyo)
+* [@SphericalKat] (https://github.com/ATechnoHazard)
+* [@rupansh] (https://github.com/rupansh)
+* [@ zakaryan2004] (https://github.com/zakaryan2004)
+* [@kandnub] (https://github.com/kandnub)
+* [@pqhaz] (https://github.com/pqhaz)
+* [@yshalsager] (https://github.com/yshalsager)
+* [@NaytSeyd] (https://github.com/NaytSeyd)
+* [@ReversedPosix] (https://github.com/ReversedPosix)
+* [@quiec] (https://github.com/quiec)
+* [@ erdemozdemir98] (https://github.com/erdemozdemir98)
+* [@Sedenogen] (https://github.com/ciyanogen)
+* [@ frknkrc44] (https://github.com/frknkrc44)
 
-ve burada bahsedilmeyen daha birçok insan.
+and many more people not mentioned here.
